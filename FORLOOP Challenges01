@@ -1,0 +1,3 @@
+name=input("name please")
+for name in range(0,3):
+ print(name)
