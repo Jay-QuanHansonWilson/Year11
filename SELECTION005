@@ -1,0 +1,3 @@
+weather = str(input("Is it raining")).lower()
+if weather=yes:
+print("is it too windy for an umbrella") 
