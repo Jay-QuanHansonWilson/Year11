@@ -2,3 +2,5 @@ name = input("Enter your name")
 num = int(input("Enter a number"))
 for range (name,num):3
 print("youve entered your name and number,for)
+#jayquan
+#forloop03
